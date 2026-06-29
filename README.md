@@ -285,8 +285,4 @@ my     (0.0300)
 
 AI and Software Engineer
 
-Email: **kshffati7@gmail.com**
-
-GitHub: *Add your GitHub profile*
-
-LinkedIn: *Add your LinkedIn profile*
+Email: **kashaf.fatimaa132@gmail.com**
